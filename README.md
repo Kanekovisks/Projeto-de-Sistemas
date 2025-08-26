@@ -14,31 +14,31 @@
 Nesse projeto foi atribuído o cenário de um empresa de médio porte onde os setores dentro da empresa possuem métodos convencionais de comunicação como e-mails e telefonemas, os quais acabam gerando problemas de demora para resolução de tarefas e demandas, por este motivo foi determinado a aplicação um software de chamados com implementação IA para facilitar e automatizar a distribuição dos chamados pelos setores da empresa aumentando o desempenho e eficiência da aplicação de soluções dentro da empresa. 
 
 ## Entregas
-### 1º Sprint | 09 / 04 ✔
+### 1º Sprint | 26 / 08 ✔
 ***Gerenciar Usuário***
    - Cadastro de Usuário
    - Controle de Acesso
    - Edição de Perfil
    - Desativação e Exclusão de Contas
 
-### 2º Sprint | 16 / 04 
+### 2º Sprint | 02 / 09 
 ***Gerenciar Chamados***
    - Criação de Chamados
    - Fechamento de Chamados
    - Atribuição e Priorização
    - Edição e Resolução de Chamados
  
-### 3º Sprint | 23 / 04 
+### 3º Sprint | 09 / 09 
 ***Classificação Inteligente de Chamados (IA)***
    - Análise Automática da Descrição
    - Detecção de Prioridade Crítica
 
-### 4º Sprint | 30 / 04 
+### 4º Sprint | 16 / 09 
 ***Relatórios e Métricas de Suporte***
    - Geração de Relatórios
    - Painel de Visualização Gráfica
    - Medição de Satisfação do Usuário
 
-### 5º Sprint | 07 / 05 
+### 5º Sprint | 23 / 09 
 ***Projeto de implantação em UML***
    - Anexo de diagramas de implantação
