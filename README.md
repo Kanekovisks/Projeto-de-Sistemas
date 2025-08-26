@@ -16,7 +16,7 @@ Nesse projeto foi atribuído o cenário de um empresa de médio porte onde os se
 ## Entregas
 ### 1º Sprint | 09 / 04 ✔
 ***Commit principal***
-   - inicio formatado do git
+   - formatação inicial do git
 
 ### 2º Sprint | 16 / 04
 ***Indefinido***
