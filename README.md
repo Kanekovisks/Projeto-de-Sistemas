@@ -15,30 +15,17 @@ Nesse projeto foi atribuído o cenário de um empresa de médio porte onde os se
 
 ## Entregas
 ### 1º Sprint | 09 / 04 ✔
-***Gerenciar Usuário***
-   - Cadastro de Usuário
-   - Controle de Acesso
-   - Edição de Perfil
-   - Desativação e Exclusão de Contas
+***Commit principal***
+   - inicio formatado do git
 
-### 2º Sprint | 16 / 04 ✔
-***Gerenciar Chamados***
-   - Criação de Chamados
-   - Fechamento de Chamados
-   - Atribuição e Priorização
-   - Edição e Resolução de Chamados
+### 2º Sprint | 16 / 04
+***Indefinido***
  
-### 3º Sprint | 23 / 04 ✔
-***Classificação Inteligente de Chamados (IA)***
-   - Análise Automática da Descrição
-   - Detecção de Prioridade Crítica
+### 3º Sprint | 23 / 04
+***Indefinido***
 
-### 4º Sprint | 30 / 04 ✔
-***Relatórios e Métricas de Suporte***
-   - Geração de Relatórios
-   - Painel de Visualização Gráfica
-   - Medição de Satisfação do Usuário
+### 4º Sprint | 30 / 04
+***Indefinido***
 
-### 5º Sprint | 07 / 05 ✔
-***Projeto de implantação em UML***
-   - Anexo de diagramas de implantação
+### 5º Sprint | 07 / 05
+***Indefinido***
