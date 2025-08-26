@@ -1,0 +1,60 @@
+** Objetivo geral do sistema: **
+Automatizar e gerir chamados e o suporte técnico, usando IA para melhorar a eficiência no atendimento e resolver problemas de maneira mais rápida.
+
+## Backlog
+
+** Requisitos Funcionais (RF) **
+ * Gerenciar Usuário *
+ • RF01: Permitir cadastro de novos usuários com validação de e-mails duplicados e regras de senha.
+ • RF02: Enviar notificação por e-mail ao usuário após a criação da conta.
+ • RF03: Permitir que administradores editem dados dos usuários e suas permissões.
+ • RF04: Notificar usuários por e-mail sobre alterações de dados ou permissões.
+ • RF05: Permitir que administradores desativem contas de usuários sem excluí-las.
+ • RF06: Permitir a exclusão definitiva de contas, garantindo a conformidade com políticas de retenção.
+ • RF07: Implementar controle de acesso baseado em níveis (admin, técnico, usuário comum).
+ • RF08: Permitir que administradores redefinam senhas dos usuários.
+
+ * Gerenciar Chamados *
+ • RF09: Permitir abertura de chamados com descrição detalhada e anexos (imagens, documentos).
+ • RF10: Implementar a sugestão de categoria na criação de chamados (pré-classificação).
+ • RF11: Permitir atribuição automática de chamados com base na categoria.
+ • RF12: Permitir que administradores reatribuam chamados e adicionem comentários internos.
+ • RF13: Permitir que técnicos atualizem o status dos chamados, adicionem observações e registrem tempo de trabalho.
+ • RF14: Permitir a solicitação de informações adicionais ao usuário durante o atendimento.
+ • RF15: Implementar validação para que chamados só possam ser fechados após confirmação da resolução ou longo tempo sem resolução.
+ • RF16: Permitir que usuários confirmem se o problema foi resolvido antes do fechamento.
+
+ * Classificação Inteligente (IA) *
+ • RF17: Analisar automaticamente a descrição do chamado para sugerir uma categoria.
+ • RF18: Sugerir possíveis soluções com base no problema descrito.
+ • RF19: Detectar chamados de prioridade crítica analisando palavras-chave e contexto.
+ • RF20: Notificar técnicos imediatamente sobre chamados críticos.
+
+ * Relatórios e Métricas *
+ • RF21: Gerar relatórios de tempo médio de resolução, volume de chamados e satisfação dos usuários.
+ • RF22: Permitir exportação de relatórios em PDF e Excel.
+ • RF23: Fornecer um painel de visualização com gráficos interativos.
+ • RF24: Permitir filtros por período, técnico e categoria nos gráficos e relatórios.
+ • RF25: Permitir avaliação de satisfação do atendimento por parte dos usuários.
+ • RF26: Gerar métricas baseadas no feedback das avaliações.
+
+
+** Requisitos Não Funcionais (RNF) **
+ • RNF01: As comunicações devem ser feitas via HTTPS para garantir segurança dos dados.
+ • RNF02: A interface deve ser intuitiva e acessível.
+ • RNF03: Realizar backups automáticos diários dos dados.
+ • RNF04: Garantir logs de atividades administrativas e de chamados para auditoria.
+ • RNF05: Os anexos devem ser armazenados de forma segura, com controle de acesso restrito.
+ • RNF06: As notificações por e-mail devem ser enviadas no máximo em até 1 minuto após a ação que as dispara.
+
+
+** Requisitos do Sistema (RS) **
+ • RS01: Banco de Dados Relacional (MySQL) para armazenamento estruturado.
+ • RS02: Serviço de fila para envio de e-mails e notificações.
+ • RS03: Serviço de armazenamento para anexos.
+ • RS04: Módulo de Inteligência Artificial integrado para classificação e sugestão de soluções.
+ • RS05: Sistema operacional compatível.
+ • RS06: Framework de desenvolvimento web.
+ • RS07: Framework de frontend moderno.
+ • RS08: Sistema de controle de permissões baseado em roles.
+
