@@ -30,7 +30,7 @@ O sistema busca centralizar o processo de abertura, acompanhamento, classificaç
 
 ## 📅 Funcionalidades por Sprint
 
-### ✅ Sprint 1 – Gerenciar Usuário 26 / 08 ✔
+### ✅ Sprint 1 – Gerenciar Usuário 26 / 08
 - Cadastro de usuários.  
 - Edição de informações.  
 - Exclusão ou desativação de contas.  
