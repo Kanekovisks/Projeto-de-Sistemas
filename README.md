@@ -5,40 +5,47 @@
    <a href="#entregas">Entregas</a>
 </p>
 
+> 
+> Status do Projeto: Andamento ⏰ 
+>
+
 ## Equipe:
 - [Gabriel Roxo](https://github.com/Kanekovisks) - ***P.O.***
 
-## O que é o HighTask?
-É um projeto acadêmico que procura criar o protótipo de um software de Gerenciamento de Chamados com a implementação de uma IA para automação. 
+# 📊 HighTask - Sistema de Chamados
 
-Nesse projeto foi atribuído o cenário de um empresa de médio porte onde os setores dentro da empresa possuem métodos convencionais de comunicação como e-mails e telefonemas, os quais acabam gerando problemas de demora para resolução de tarefas e demandas, por este motivo foi determinado a aplicação um software de chamados com implementação IA para facilitar e automatizar a distribuição dos chamados pelos setores da empresa aumentando o desempenho e eficiência da aplicação de soluções dentro da empresa. 
+## 📖 Descrição do Projeto
+O **HighTask** é um sistema de chamados desenvolvido como parte do Projeto Integrado Multidisciplinar (PIM) da UNIP.  
+O sistema busca centralizar o processo de abertura, acompanhamento, classificação e gestão de chamados, oferecendo mais eficiência e controle para organizações.
 
-## Entregas
-### 1º Sprint | 26 / 08 ✔
-***Gerenciar Usuário***
-   - Cadastro de Usuário
-   - Controle de Acesso
-   - Edição de Perfil
-   - Desativação e Exclusão de Contas
+---
 
-### 2º Sprint | 02 / 09 
-***Gerenciar Chamados***
-   - Criação de Chamados
-   - Fechamento de Chamados
-   - Atribuição e Priorização
-   - Edição e Resolução de Chamados
- 
-### 3º Sprint | 09 / 09 
-***Classificação Inteligente de Chamados (IA)***
-   - Análise Automática da Descrição
-   - Detecção de Prioridade Crítica
+## 🎯 Objetivos do Sistema
+- Gerenciar usuários com segurança e controle de acesso.  
+- Permitir abertura e acompanhamento de chamados de forma organizada.  
+- Automatizar a classificação dos chamados utilizando Inteligência Artificial.  
+- Fornecer relatórios e dashboards que auxiliem na tomada de decisões.  
 
-### 4º Sprint | 16 / 09 
-***Relatórios e Métricas de Suporte***
-   - Geração de Relatórios
-   - Painel de Visualização Gráfica
-   - Medição de Satisfação do Usuário
+---
 
-### 5º Sprint | 23 / 09 
-***Projeto de implantação em UML***
-   - Anexo de diagramas de implantação
+## 📅 Funcionalidades por Sprint
+
+### ✅ Sprint 1 – Gerenciar Usuário 26 / 08 ✔
+- Cadastro de usuários.  
+- Edição de informações.  
+- Exclusão ou desativação de contas.  
+- Controle de acesso (perfis e permissões).  
+
+### ✅ Sprint 2 – Gerenciar Chamados - 02 / 09
+- Criação e edição de chamados.  
+- Atribuição de responsáveis.  
+- Alteração de status.  
+- Encerramento de chamados.  
+
+### ✅ Sprint 3 – Classificação Inteligente - 09 / 09
+- Implementação de modelo de IA para classificação automática de chamados.  
+- Sugestão de prioridade com base em histórico.  
+
+### ✅ Sprint 4 – Relatórios - 16 / 09 
+- Geração de relatórios administrativos.  
+- Dashboards com métricas de desempenho.  
