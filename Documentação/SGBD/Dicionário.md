@@ -1,10 +1,8 @@
----
-
-Dicionário de Dados – Sistema HighTask
+# Dicionário de Dados – Sistema HighTask
 
 ---
 
-Tabela: Usuarios
+## Tabela: Usuarios
 
 Id: INT, Primary Key, Auto Increment, Not Null
 → Identificador único do usuário
@@ -28,7 +26,7 @@ Status: BIT, Not Null
 
 ---
 
-Tabela: Chamados
+## Tabela: Chamados
 
 Id: INT, Primary Key, Auto Increment, Not Null
 → Identificador único do chamado
@@ -61,7 +59,7 @@ TecnicoResponsavelId: INT, Foreign Key → Usuarios(Id)
 
 ---
 
-Tabela: Categorias
+## Tabela: Categorias
 
 Id: INT, Primary Key, Auto Increment, Not Null
 → Identificador da categoria
@@ -73,7 +71,7 @@ Nome: NVARCHAR(100), Not Null
 
 ---
 
-Tabela: Observacoes
+## Tabela: Observacoes
 
 Id: INT, Primary Key, Auto Increment, Not Null
 → Identificador da observação
@@ -97,7 +95,7 @@ DataHora: DATETIME, Not Null, Default GETDATE()
 
 ---
 
-Tabela: Relatorios
+## Tabela: Relatorios
 
 Id: INT, Primary Key, Auto Increment, Not Null
 → Identificador do relatório
@@ -118,7 +116,7 @@ Dados: NVARCHAR(MAX), Not Null
 
 ---
 
-Tabela: Avaliacoes
+## Tabela: Avaliacoes
 
 Id: INT, Primary Key, Auto Increment, Not Null
 → Identificador da avaliação
@@ -139,7 +137,7 @@ Comentario: NVARCHAR(500), Nullable
 
 ---
 
-Tabela: Auditoria
+## Tabela: Auditoria
 
 Id: INT, Primary Key, Auto Increment, Not Null
 → Identificador da entrada no log
@@ -160,7 +158,7 @@ Descricao: NVARCHAR(500), Not Null
 
 ---
 
-Tabela: Anexos
+## Tabela: Anexos
 
 Id: INT, Primary Key, Auto Increment, Not Null
 → Identificador do anexo
@@ -181,7 +179,7 @@ DataUpload: DATETIME, Not Null, Default GETDATE()
 
 ---
 
-Observações:
+## Observações:
 
 Todas as tabelas possuem uma chave primária (PK) e os relacionamentos são feitos através de chaves estrangeiras (FK).
 
