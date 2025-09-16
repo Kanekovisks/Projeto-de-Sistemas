@@ -1,18 +1,18 @@
 <div align="center">
-<img src="" width="500"/>
+<img src="https://github.com/Kanekovisks/Projeto-de-Sistemas/blob/docs/Assets/HighTaskLogo.png" width="500"/>
 </div>
 
 <p align="center">
-   <a href="#equipe">Equipe</a> •
-   <a href="#o-que-é-o-hightask">Sobre</a> •
-   <a href="#entregas">Entregas</a>
+   <a href="#-equipe">Equipe</a> •
+   <a href="#-hightask---sistema-de-chamados">Sobre</a> •
+   <a href="#-funcionalidades-por-sprint">Sprints</a>
 </p>
 
 > 
 > Status do Projeto: Andamento ⏰ 
 >
 
-## Equipe:
+## 🙋 Equipe:
 - [Gabriel Duarte Roxo](https://github.com/Kanekovisks) - ***P.O.***
 
 # 📊 HighTask - Sistema de Chamados
