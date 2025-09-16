@@ -1,4 +1,7 @@
-# <p align=center> HighTask
+<div align="center">
+<img src="" width="500"/>
+</div>
+
 <p align="center">
    <a href="#equipe">Equipe</a> •
    <a href="#o-que-é-o-hightask">Sobre</a> •
@@ -10,9 +13,16 @@
 >
 
 ## Equipe:
-- [Gabriel Roxo](https://github.com/Kanekovisks) - ***P.O.***
+- [Gabriel Duarte Roxo](https://github.com/Kanekovisks) - ***P.O.***
 
 # 📊 HighTask - Sistema de Chamados
+
+## 💻 Tecnologias Utilizadas
+<a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://astah.net/"><img src="https://img.shields.io/badge/Astah-blue?style=for-the-badge&logo=uml&logoColor=white"/></a>
+<a href="https://www.w3schools.com/js"><img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+<a href="https://www.figma.com"><img src="https://img.shields.io/badge/Figma-red?style=for-the-badge&logo=figma&logoColor=white"/></a>
+<a href="https://www.w3schools.com/sql/default.asp"><img src="https://img.shields.io/badge/MySql-%2300758f?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 
 ## 📖 Descrição do Projeto
 O **HighTask** é um sistema de chamados desenvolvido como parte do Projeto Integrado Multidisciplinar (PIM) da UNIP.  
