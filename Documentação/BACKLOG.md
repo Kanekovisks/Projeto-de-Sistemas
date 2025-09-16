@@ -1,4 +1,4 @@
-# 📑 Backlog Organizado – Sistema HighTask
+# 📑 Backlog – Sistema HighTask
 
 | Rank | Prioridade | User Story | Story Points | Sprint | Requisito do Cliente | Status |
 |:----:|:----------:|------------|--------------|:------:|:--------------------:|:------:|
