@@ -8,12 +8,18 @@
    <a href="#-funcionalidades-por-sprint">Sprints</a>
 </p>
 
+---
+
 > 
 > Status do Projeto: Andamento ⏰ 
 >
 
+---
+
 ## 🙋 Equipe:
 - [Gabriel Duarte Roxo](https://github.com/Kanekovisks) - ***P.O.***
+
+---
 
 # 📊 HighTask - Sistema de Chamados
 
