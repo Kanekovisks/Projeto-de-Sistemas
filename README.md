@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Kanekovisks/Projeto-de-Sistemas/blob/docs/Assets/HighTaskLogo.png" width="500"/>
+<img src="https://github.com/Kanekovisks/Projeto-de-Sistemas/blob/docs/Assets/HighTaskLogo.png" width="250"/>
 </div>
 
 <p align="center">
