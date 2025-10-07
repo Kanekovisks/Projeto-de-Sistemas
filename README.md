@@ -50,28 +50,6 @@ O sistema busca centralizar o processo de abertura, acompanhamento, classificaç
 - <p><a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/tree/main/Documenta%C3%A7%C3%A3o">Documentos</a></p>
 - <p><a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/blob/main/Documenta%C3%A7%C3%A3o/BACKLOG.md">Backlog</a></p>
 - <p><a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/tree/main/Documenta%C3%A7%C3%A3o/Diagrama">Diagramas de Desenvolvimento</a></p>
-
----
-
-## 📅 Funcionalidades por Sprint
-### ✅ Sprint 1 – Gerenciar Usuário 26 / 08
-- Cadastro de usuários.  
-- Edição de informações.  
-- Exclusão ou desativação de contas.  
-- Controle de acesso (perfis e permissões).  
-
-### ✅ Sprint 2 – Gerenciar Chamados - 02 / 09
-- Criação e edição de chamados.  
-- Atribuição de responsáveis.  
-- Alteração de status.  
-- Encerramento de chamados.  
-
-### ✅ Sprint 3 – Classificação Inteligente - 09 / 09
-- Implementação de modelo de IA para classificação automática de chamados.  
-- Sugestão de prioridade com base em histórico.  
-
-### ✅ Sprint 4 – Relatórios - 16 / 09 
-- Geração de relatórios administrativos.  
-- Dashboards com métricas de desempenho.
+- <p><a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/blob/main/Documenta%C3%A7%C3%A3o/SPRINT_BACKLOG.md">Sprint Backlog</a></p>
 
 ---
