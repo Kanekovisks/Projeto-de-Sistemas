@@ -5,8 +5,7 @@
 <p align="center">
    <a href="#-equipe">Equipe</a> •
    <a href="#-hightask---sistema-de-chamados">Sobre</a> •
-   <a href="#-documentação-do-sistema">Documentação</a> •
-   <a href="#-funcionalidades-por-sprint">Sprints</a>
+   <a href="#-documentação-do-sistema">Documentação</a>
 </p>
 
 ---
