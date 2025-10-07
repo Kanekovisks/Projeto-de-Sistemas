@@ -47,16 +47,13 @@ O sistema busca centralizar o processo de abertura, acompanhamento, classificaç
 ---
 
 ## 📃 Documentação do Sistema
-<p>
-   - <a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/tree/main/Documenta%C3%A7%C3%A3o">Documentos</a>
-   - <a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/blob/main/Documenta%C3%A7%C3%A3o/BACKLOG.md">Backlog</a>
-   - <a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/tree/main/Documenta%C3%A7%C3%A3o/Diagrama">Diagramas de Desenvolvimento</a>
-</p>
+- <p><a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/tree/main/Documenta%C3%A7%C3%A3o">Documentos</a></p>
+- <p><a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/blob/main/Documenta%C3%A7%C3%A3o/BACKLOG.md">Backlog</a></p>
+- <p><a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/tree/main/Documenta%C3%A7%C3%A3o/Diagrama">Diagramas de Desenvolvimento</a></p>
 
 ---
 
 ## 📅 Funcionalidades por Sprint
-
 ### ✅ Sprint 1 – Gerenciar Usuário 26 / 08
 - Cadastro de usuários.  
 - Edição de informações.  
