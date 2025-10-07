@@ -5,6 +5,7 @@
 <p align="center">
    <a href="#-equipe">Equipe</a> •
    <a href="#-hightask---sistema-de-chamados">Sobre</a> •
+   <a href="#-documentação-do-sistema">Documentação</a> •
    <a href="#-funcionalidades-por-sprint">Sprints</a>
 </p>
 
@@ -45,10 +46,12 @@ O sistema busca centralizar o processo de abertura, acompanhamento, classificaç
 
 ---
 
-## 📃 Documentação 
-- <p><a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/tree/main/Documenta%C3%A7%C3%A3o">Documentos do Sistema</a></p>
-- <p><a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/blob/main/Documenta%C3%A7%C3%A3o/BACKLOG.md">Backlog</a></p>
-- <p><a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/tree/main/Documenta%C3%A7%C3%A3o/Diagrama">Diagramas de Desenvolvimento</a></p>
+## 📃 Documentação do Sistema
+<p>
+   - <a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/tree/main/Documenta%C3%A7%C3%A3o">Documentos</a>
+   - <a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/blob/main/Documenta%C3%A7%C3%A3o/BACKLOG.md">Backlog</a>
+   - <a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/tree/main/Documenta%C3%A7%C3%A3o/Diagrama">Diagramas de Desenvolvimento</a>
+</p>
 
 ---
 
