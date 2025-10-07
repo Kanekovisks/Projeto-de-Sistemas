@@ -63,4 +63,9 @@ O sistema busca centralizar o processo de abertura, acompanhamento, classificaç
 
 ### ✅ Sprint 4 – Relatórios - 16 / 09 
 - Geração de relatórios administrativos.  
-- Dashboards com métricas de desempenho.  
+- Dashboards com métricas de desempenho.
+
+---
+
+### 📃 Documentação 
+<a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/tree/main/Documenta%C3%A7%C3%A3o">Documentos do Sistema</a>
