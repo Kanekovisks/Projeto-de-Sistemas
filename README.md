@@ -29,6 +29,8 @@
 <a href="https://www.figma.com"><img src="https://img.shields.io/badge/Figma-red?style=for-the-badge&logo=figma&logoColor=white"/></a>
 <a href="https://www.w3schools.com/sql/default.asp"><img src="https://img.shields.io/badge/MySql-%2300758f?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 
+---
+
 ## 📖 Descrição do Projeto
 O **HighTask** é um sistema de chamados desenvolvido como parte do Projeto Integrado Multidisciplinar (PIM) da UNIP.  
 O sistema busca centralizar o processo de abertura, acompanhamento, classificação e gestão de chamados, oferecendo mais eficiência e controle para organizações.
@@ -40,6 +42,13 @@ O sistema busca centralizar o processo de abertura, acompanhamento, classificaç
 - Permitir abertura e acompanhamento de chamados de forma organizada.  
 - Automatizar a classificação dos chamados utilizando Inteligência Artificial.  
 - Fornecer relatórios e dashboards que auxiliem na tomada de decisões.  
+
+---
+
+## 📃 Documentação 
+<a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/tree/main/Documenta%C3%A7%C3%A3o">Documentos do Sistema</a>
+<a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/blob/main/Documenta%C3%A7%C3%A3o/BACKLOG.md">Backlog</a>
+<a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/tree/main/Documenta%C3%A7%C3%A3o/Diagrama">Diagramas de Desenvolvimento</a>
 
 ---
 
@@ -66,6 +75,3 @@ O sistema busca centralizar o processo de abertura, acompanhamento, classificaç
 - Dashboards com métricas de desempenho.
 
 ---
-
-### 📃 Documentação 
-<a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/tree/main/Documenta%C3%A7%C3%A3o">Documentos do Sistema</a>
