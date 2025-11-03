@@ -1,4 +1,4 @@
-# 📑 Backlog – Sistema HighTask
+# 📑 Backlog – Projeto HighTask
 
 ### ✅ Requisitos Funcionais (RF)
 
