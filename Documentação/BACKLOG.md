@@ -2,8 +2,6 @@
 
 ### ✅ Requisitos Funcionais (RF)
 
-### ✅ Requisitos Funcionais (RF)
-
 | Rank | Prioridade | User Story | Story Points | Sprint | Requisito do Cliente | Status |
 |:----:|:----------:|------------|--------------|:------:|:--------------------:|:------:|
 | 1 | Alta | Como administrador, quero cadastrar novos usuários, para que apenas pessoas autorizadas utilizem o sistema. | 13 | 1 | RF01 | Feito |
