@@ -20,10 +20,10 @@ Nesse projeto foi atribuído o cenário de um empresa de médio porte onde os se
 ---
 
 ## 📃 Documentação do Sistema
-- 📄 <p><a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/tree/main/Documenta%C3%A7%C3%A3o">Documentos</a></p>
-- 📑 <p><a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/blob/main/Documenta%C3%A7%C3%A3o/BACKLOG.md">Backlog</a></p>
-- 📚 <p><a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/tree/main/Documenta%C3%A7%C3%A3o/Diagrama">Diagramas de Desenvolvimento</a></p>
-- 📅 <p><a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/blob/main/Documenta%C3%A7%C3%A3o/SPRINT_BACKLOG.md">Sprint Backlog</a></p>
+- 📄 <a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/tree/main/Documenta%C3%A7%C3%A3o">Documentos</a>
+- 📑 <a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/blob/main/Documenta%C3%A7%C3%A3o/BACKLOG.md">Backlog</a>
+- 📚 <a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/tree/main/Documenta%C3%A7%C3%A3o/Diagrama">Diagramas de Desenvolvimento</a>
+- 📅 <a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/blob/main/Documenta%C3%A7%C3%A3o/SPRINT_BACKLOG.md">Sprint Backlog</a>
 
 ---
 
@@ -36,7 +36,8 @@ Nesse projeto foi atribuído o cenário de um empresa de médio porte onde os se
 <a href="https://www.w3schools.com/js"><img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/></a>
 <a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/></a>
 <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/></a>
-<a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a>
+<a href="https://tailwindcss.com/docs/installation/using-vite"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a>
+<a href="https://www.typescriptlang.org/docs/"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></a>
 
 
 ---
