@@ -10,14 +10,18 @@
 
 ---
 
-> 
-> Status do Projeto: Andamento ⏰ 
->
-
----
-
 ## 🙋 Equipe:
 - [Gabriel Duarte Roxo](https://github.com/Kanekovisks) - ***P.O.***
+
+- [Renata Honorato](https://github.com/reh2212) - ***Scrum Master***
+
+- [Arreginaldo JR.](https://github.com/arreginaldo) - ***Dev***
+
+- [Paloma Rodrigues](https://github.com/prpaloma) - ***Dev***
+
+- [Fábio Afonso Farias Cavalcante](https://github.com/Fabin2024) - ***Dev***
+  
+- [Igor Oliveira Marcondes]() - ***Dev***
 
 ---
 
