@@ -12,25 +12,18 @@
 
 # 📊 HighTask - Sistema de Chamados
 
-## 💻 Tecnologias Utilizadas
-<a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://astah.net/"><img src="https://img.shields.io/badge/Astah-blue?style=for-the-badge&logo=uml&logoColor=white"/></a>
-<a href="https://www.figma.com"><img src="https://img.shields.io/badge/Figma-red?style=for-the-badge&logo=figma&logoColor=white"/></a>
-<a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/></a>
-
----
-
-## 📖 Descrição do Projeto
-O **HighTask** é um sistema de chamados desenvolvido como parte do Projeto Integrado Multidisciplinar (PIM) da UNIP.  
-O sistema busca centralizar o processo de abertura, acompanhamento, classificação e gestão de chamados, oferecendo mais eficiência e controle para organizações.
-
----
-
 ## 🎯 Objetivos do Sistema
 - Gerenciar usuários com segurança e controle de acesso.  
 - Permitir abertura e acompanhamento de chamados de forma organizada.  
 - Automatizar a classificação dos chamados utilizando Inteligência Artificial.  
 - Fornecer relatórios e dashboards que auxiliem na tomada de decisões.  
+
+---
+## 💻 Tecnologias Utilizadas
+<a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://astah.net/"><img src="https://img.shields.io/badge/Astah-blue?style=for-the-badge&logo=uml&logoColor=white"/></a>
+<a href="https://www.figma.com"><img src="https://img.shields.io/badge/Figma-red?style=for-the-badge&logo=figma&logoColor=white"/></a>
+<a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/></a>
 
 ---
 
