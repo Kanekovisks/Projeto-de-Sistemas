@@ -18,19 +18,26 @@
 Nesse projeto foi atribuído o cenário de um empresa de médio porte onde os setores dentro da empresa possuem métodos convencionais de comunicação como e-mails e telefonemas, os quais acabam gerando problemas de demora para resolução de tarefas e demandas, por este motivo foi determinado a aplicação um software de chamados com implementação IA para facilitar e automatizar a distribuição dos chamados pelos setores da empresa aumentando o desempenho e eficiência da aplicação de soluções dentro da empresa. 
 
 ---
+
+## 📃 Documentação do Sistema
+- 📄 <p><a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/tree/main/Documenta%C3%A7%C3%A3o">Documentos</a></p>
+- 📑 <p><a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/blob/main/Documenta%C3%A7%C3%A3o/BACKLOG.md">Backlog</a></p>
+- 📚 <p><a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/tree/main/Documenta%C3%A7%C3%A3o/Diagrama">Diagramas de Desenvolvimento</a></p>
+- 📅 <p><a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/blob/main/Documenta%C3%A7%C3%A3o/SPRINT_BACKLOG.md">Sprint Backlog</a></p>
+
+---
+
 ## 💻 Tecnologias Utilizadas
 <a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://astah.net/"><img src="https://img.shields.io/badge/Astah-blue?style=for-the-badge&logo=uml&logoColor=white"/></a>
 <a href="https://www.figma.com"><img src="https://img.shields.io/badge/Figma-red?style=for-the-badge&logo=figma&logoColor=white"/></a>
 <a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
+<a href="https://www.w3schools.com/js"><img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+<a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/></a>
+<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/></a>
+<a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a>
 
----
-
-## 📃 Documentação do Sistema
-- <p><a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/tree/main/Documenta%C3%A7%C3%A3o">Documentos</a></p>
-- <p><a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/blob/main/Documenta%C3%A7%C3%A3o/BACKLOG.md">Backlog</a></p>
-- <p><a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/tree/main/Documenta%C3%A7%C3%A3o/Diagrama">Diagramas de Desenvolvimento</a></p>
-- <p><a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/blob/main/Documenta%C3%A7%C3%A3o/SPRINT_BACKLOG.md">Sprint Backlog</a></p>
 
 ---
 
