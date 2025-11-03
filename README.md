@@ -12,11 +12,10 @@
 
 # 📊 HighTask - Sistema de Chamados
 
-## 🎯 Objetivos do Sistema
-- Gerenciar usuários com segurança e controle de acesso.  
-- Permitir abertura e acompanhamento de chamados de forma organizada.  
-- Automatizar a classificação dos chamados utilizando Inteligência Artificial.  
-- Fornecer relatórios e dashboards que auxiliem na tomada de decisões.  
+## 🎯 Objetivo
+É um projeto acadêmico que procura criar o protótipo de um software de Gerenciamento de Chamados com a implementação de uma IA para automação. 
+
+Nesse projeto foi atribuído o cenário de um empresa de médio porte onde os setores dentro da empresa possuem métodos convencionais de comunicação como e-mails e telefonemas, os quais acabam gerando problemas de demora para resolução de tarefas e demandas, por este motivo foi determinado a aplicação um software de chamados com implementação IA para facilitar e automatizar a distribuição dos chamados pelos setores da empresa aumentando o desempenho e eficiência da aplicação de soluções dentro da empresa. 
 
 ---
 ## 💻 Tecnologias Utilizadas
@@ -35,17 +34,12 @@
 
 ---
 
-## 🙋 Equipe:
-- [Gabriel Duarte Roxo](https://github.com/Kanekovisks) - ***P.O.***
-
-- [Renata Honorato](https://github.com/reh2212) - ***Scrum Master***
-
-- [Arreginaldo JR.](https://github.com/arreginaldo) - ***Dev***
-
-- [Paloma Rodrigues](https://github.com/prpaloma) - ***Dev***
-
-- [Fábio Afonso Farias Cavalcante](https://github.com/Fabin2024) - ***Dev***
-  
-- [Igor Oliveira Marcondes]() - ***Dev***
+## 🙋 Equipe
+| [Gabriel Duarte Roxo](https://github.com/Kanekovisks) | ***P.O.*** |
+| [Renata Honorato](https://github.com/reh2212) | ***Scrum Master*** |
+| [Arreginaldo JR.](https://github.com/arreginaldo) | ***Dev*** |
+| [Paloma Rodrigues](https://github.com/prpaloma) | ***Dev*** |
+| [Fábio Afonso Farias Cavalcante](https://github.com/Fabin2024) | ***Dev*** |
+| [Igor Oliveira Marcondes]() | ***Dev*** |
 
 ---
