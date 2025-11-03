@@ -35,6 +35,8 @@ Nesse projeto foi atribuído o cenário de um empresa de médio porte onde os se
 ---
 
 ## 🙋 Equipe
+| Membro | Cargo |
+|--------|-------|
 | [Gabriel Duarte Roxo](https://github.com/Kanekovisks) | ***P.O.*** |
 | [Renata Honorato](https://github.com/reh2212) | ***Scrum Master*** |
 | [Arreginaldo JR.](https://github.com/arreginaldo) | ***Dev*** |
