@@ -19,15 +19,6 @@ Nesse projeto foi atribuído o cenário de um empresa de médio porte onde os se
 
 ---
 
-## 📃 Documentação do Sistema
-- 📑 <a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/blob/main/Documenta%C3%A7%C3%A3o/BACKLOG.md">Backlog</a>
-- 📚 <a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/tree/main/Documenta%C3%A7%C3%A3o/Diagrama">Diagramas de UML</a>
-- 📅 <a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/blob/main/Documenta%C3%A7%C3%A3o/SPRINT_BACKLOG.md">Sprint Backlog</a>
-- 📘 <a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/blob/main/Documenta%C3%A7%C3%A3o/DoD%20e%20DoR.md">DoD e DoR</a>
-- 📖 <a href="">Manual do Usuário</a>
-
----
-
 ## 💻 Tecnologias Utilizadas
 <a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://astah.net/"><img src="https://img.shields.io/badge/Astah-blue?style=for-the-badge&logo=uml&logoColor=white"/></a>
@@ -40,6 +31,14 @@ Nesse projeto foi atribuído o cenário de um empresa de médio porte onde os se
 <a href="https://tailwindcss.com/docs/installation/using-vite"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a>
 <a href="https://www.typescriptlang.org/docs/"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></a>
 
+---
+
+## 📃 Documentação do Sistema
+- 📑 <a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/blob/main/Documenta%C3%A7%C3%A3o/BACKLOG.md">Backlog</a>
+- 📚 <a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/tree/main/Documenta%C3%A7%C3%A3o/Diagrama">Diagramas de UML</a>
+- 📅 <a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/blob/main/Documenta%C3%A7%C3%A3o/SPRINT_BACKLOG.md">Sprint Backlog</a>
+- 📘 <a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/blob/main/Documenta%C3%A7%C3%A3o/DoD%20e%20DoR.md">DoD e DoR</a>
+- 📖 <a href="">Manual do Usuário</a>
 
 ---
 
