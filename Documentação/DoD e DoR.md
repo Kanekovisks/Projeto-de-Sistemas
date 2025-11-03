@@ -13,7 +13,7 @@
 - Funcionalidades de cadastro, edição, exclusão e controle de acesso implementadas.  
 - Testes realizados para validação de permissões e segurança.  
 - Commits realizados com padrão definido.  
-- Documentação atualizada na pasta `/docs`.  
+- Documentação atualizada na pasta `/Documentações`.  
 - Sprint marcada como “Feito” no backlog.
 
 ---
@@ -46,7 +46,6 @@
 🟩 **DoD**  
 - IA integrada ao sistema para classificação automática e sugestão de prioridade.  
 - Testes realizados com diferentes tipos de chamados.  
-- Documentação técnica da IA incluída na pasta `/docs`.  
 - Funcionalidades versionadas e revisadas.  
 - Sprint concluída e validada no backlog.
 
@@ -65,4 +64,5 @@
 - Exportação em PDF e Excel funcional.  
 - Filtros aplicáveis por período, técnico e categoria.  
 - Documentação dos relatórios e gráficos atualizada.  
+
 - Sprint encerrada com status “Feito” no backlog.
