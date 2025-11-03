@@ -10,21 +10,6 @@
 
 ---
 
-## 🙋 Equipe:
-- [Gabriel Duarte Roxo](https://github.com/Kanekovisks) - ***P.O.***
-
-- [Renata Honorato](https://github.com/reh2212) - ***Scrum Master***
-
-- [Arreginaldo JR.](https://github.com/arreginaldo) - ***Dev***
-
-- [Paloma Rodrigues](https://github.com/prpaloma) - ***Dev***
-
-- [Fábio Afonso Farias Cavalcante](https://github.com/Fabin2024) - ***Dev***
-  
-- [Igor Oliveira Marcondes]() - ***Dev***
-
----
-
 # 📊 HighTask - Sistema de Chamados
 
 ## 💻 Tecnologias Utilizadas
@@ -54,5 +39,20 @@ O sistema busca centralizar o processo de abertura, acompanhamento, classificaç
 - <p><a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/blob/main/Documenta%C3%A7%C3%A3o/BACKLOG.md">Backlog</a></p>
 - <p><a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/tree/main/Documenta%C3%A7%C3%A3o/Diagrama">Diagramas de Desenvolvimento</a></p>
 - <p><a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/blob/main/Documenta%C3%A7%C3%A3o/SPRINT_BACKLOG.md">Sprint Backlog</a></p>
+
+---
+
+## 🙋 Equipe:
+- [Gabriel Duarte Roxo](https://github.com/Kanekovisks) - ***P.O.***
+
+- [Renata Honorato](https://github.com/reh2212) - ***Scrum Master***
+
+- [Arreginaldo JR.](https://github.com/arreginaldo) - ***Dev***
+
+- [Paloma Rodrigues](https://github.com/prpaloma) - ***Dev***
+
+- [Fábio Afonso Farias Cavalcante](https://github.com/Fabin2024) - ***Dev***
+  
+- [Igor Oliveira Marcondes]() - ***Dev***
 
 ---
