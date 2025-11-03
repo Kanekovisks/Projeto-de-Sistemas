@@ -1,31 +1,54 @@
-# <p align=center> HighTask
+<div align="center">
+<img src="https://github.com/Kanekovisks/Projeto-de-Sistemas/blob/docs/Documenta%C3%A7%C3%A3o/Assets/HighTaskLogo.png" width="250"/>
+</div>
+
 <p align="center">
-   <a href="#equipe">Equipe</a> •
-   <a href="#o-que-é-o-hightask">Sobre</a> •
-   <a href="#entregas">Entregas</a>
+   <a href="#-equipe">Equipe</a> •
+   <a href="#-hightask---sistema-de-chamados">Sobre</a> •
+   <a href="#-documentação-do-sistema">Documentação</a>
 </p>
 
-## Equipe:
-- [Gabriel Roxo](https://github.com/Kanekovisks) - ***P.O.***
+---
 
-## O que é o HighTask?
-É um projeto acadêmico que procura criar o protótipo de um software de Gerenciamento de Chamados com a implementação de uma IA para automação. 
+> 
+> Status do Projeto: Andamento ⏰ 
+>
 
-Nesse projeto foi atribuído o cenário de um empresa de médio porte onde os setores dentro da empresa possuem métodos convencionais de comunicação como e-mails e telefonemas, os quais acabam gerando problemas de demora para resolução de tarefas e demandas, por este motivo foi determinado a aplicação um software de chamados com implementação IA para facilitar e automatizar a distribuição dos chamados pelos setores da empresa aumentando o desempenho e eficiência da aplicação de soluções dentro da empresa. 
+---
 
-## Entregas
-### 1º Sprint | 09 / 04 ✔
-***Commit principal***
-   - formatação inicial do git
+## 🙋 Equipe:
+- [Gabriel Duarte Roxo](https://github.com/Kanekovisks) - ***P.O.***
 
-### 2º Sprint | 16 / 04
-***Indefinido***
- 
-### 3º Sprint | 23 / 04
-***Indefinido***
+---
 
-### 4º Sprint | 30 / 04
-***Indefinido***
+# 📊 HighTask - Sistema de Chamados
 
-### 5º Sprint | 07 / 05
-***Indefinido***
+## 💻 Tecnologias Utilizadas
+<a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://astah.net/"><img src="https://img.shields.io/badge/Astah-blue?style=for-the-badge&logo=uml&logoColor=white"/></a>
+<a href="https://www.figma.com"><img src="https://img.shields.io/badge/Figma-red?style=for-the-badge&logo=figma&logoColor=white"/></a>
+<a href="https://www.w3schools.com/sql/default.asp"><img src="https://img.shields.io/badge/MySql-%2300758f?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+
+---
+
+## 📖 Descrição do Projeto
+O **HighTask** é um sistema de chamados desenvolvido como parte do Projeto Integrado Multidisciplinar (PIM) da UNIP.  
+O sistema busca centralizar o processo de abertura, acompanhamento, classificação e gestão de chamados, oferecendo mais eficiência e controle para organizações.
+
+---
+
+## 🎯 Objetivos do Sistema
+- Gerenciar usuários com segurança e controle de acesso.  
+- Permitir abertura e acompanhamento de chamados de forma organizada.  
+- Automatizar a classificação dos chamados utilizando Inteligência Artificial.  
+- Fornecer relatórios e dashboards que auxiliem na tomada de decisões.  
+
+---
+
+## 📃 Documentação do Sistema
+- <p><a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/tree/main/Documenta%C3%A7%C3%A3o">Documentos</a></p>
+- <p><a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/blob/main/Documenta%C3%A7%C3%A3o/BACKLOG.md">Backlog</a></p>
+- <p><a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/tree/main/Documenta%C3%A7%C3%A3o/Diagrama">Diagramas de Desenvolvimento</a></p>
+- <p><a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/blob/main/Documenta%C3%A7%C3%A3o/SPRINT_BACKLOG.md">Sprint Backlog</a></p>
+
+---

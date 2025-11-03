@@ -1,0 +1,102 @@
+/* PIM3 BD HighTask - Lógico: */
+
+--create database SQLHighTaskDB;
+
+--use SQLHighTaskDB;
+
+	/*
+CREATE TABLE Usuario (
+    UsuarioID int IDENTITY(1,1) PRIMARY KEY,
+    Nome varchar(50),
+    Email varchar(50),
+    Senha varchar(16),
+    Perfil varchar(20),
+    StatusUsuario varchar(16)
+);
+
+CREATE TABLE Chamado (
+    ChamadoID int IDENTITY(1,1) PRIMARY KEY,
+    Titulo varchar(40),
+    Descricao varchar(300),
+    StatusChamado varchar(16),
+    Data date,
+    Prioridade varchar(16),
+    Categoria varchar(16),
+    Observacao varchar(200),
+    Feedback float
+);
+
+CREATE TABLE Relatorio (
+    RelatorioID int IDENTITY(1,1) PRIMARY KEY,
+    Tipo varchar(16),
+    DataInicio date,
+    DataFim date,
+    Dados varchar(250)
+);
+
+CREATE TABLE Observacao (
+    ObservacaoID int IDENTITY(1,1) PRIMARY KEY,
+    Texto varchar(200),
+    TempoGasto float,
+    Data date
+);
+
+CREATE TABLE Usuario_Chamado (
+    fk_Usuario_UsuarioID int,
+    fk_Chamado_ChamadoID int
+);
+
+CREATE TABLE Relatorio_Usuario (
+    fk_Usuario_UsuarioID int,
+    fk_Relatorio_RelatorioID int
+);
+
+CREATE TABLE Usuario_Observacao (
+    fk_Usuario_UsuarioID int,
+    fk_Observacao_ObservacaoID int
+);
+
+CREATE TABLE Observacao_Chamado (
+    fk_Chamado_ChamadoID int,
+    fk_Observacao_ObservacaoID int
+);
+ 
+ALTER TABLE Usuario_Chamado ADD CONSTRAINT FK_Usuario_Chamado_1
+    FOREIGN KEY (fk_Usuario_UsuarioID)
+    REFERENCES Usuario (UsuarioID)
+    ON DELETE CASCADE;
+ 
+ALTER TABLE Usuario_Chamado ADD CONSTRAINT FK_Usuario_Chamado_2
+    FOREIGN KEY (fk_Chamado_ChamadoID)
+    REFERENCES Chamado (ChamadoID)
+    ON DELETE CASCADE;
+ 
+ALTER TABLE Relatorio_Usuario ADD CONSTRAINT FK_Relatorio_Usuario_1
+    FOREIGN KEY (fk_Usuario_UsuarioID)
+    REFERENCES Usuario (UsuarioID)
+    ON DELETE CASCADE;
+ 
+ALTER TABLE Relatorio_Usuario ADD CONSTRAINT FK_Relatorio_Usuario_2
+    FOREIGN KEY (fk_Relatorio_RelatorioID)
+    REFERENCES Relatorio (RelatorioID)
+    ON DELETE CASCADE;
+ 
+ALTER TABLE Usuario_Observacao ADD CONSTRAINT FK_Usuario_Observacao_1
+    FOREIGN KEY (fk_Usuario_UsuarioID)
+    REFERENCES Usuario (UsuarioID)
+    ON DELETE CASCADE;
+ 
+ALTER TABLE Usuario_Observacao ADD CONSTRAINT FK_Usuario_Observacao_2
+    FOREIGN KEY (fk_Observacao_ObservacaoID)
+    REFERENCES Observacao (ObservacaoID)
+    ON DELETE CASCADE;
+ 
+ALTER TABLE Observacao_Chamado ADD CONSTRAINT FK_Observacao_Chamado_1
+    FOREIGN KEY (fk_Chamado_ChamadoID)
+    REFERENCES Chamado (ChamadoID)
+    ON DELETE CASCADE;
+ 
+ALTER TABLE Observacao_Chamado ADD CONSTRAINT FK_Observacao_Chamado_2
+    FOREIGN KEY (fk_Observacao_ObservacaoID)
+    REFERENCES Observacao (ObservacaoID)
+    ON DELETE CASCADE;
