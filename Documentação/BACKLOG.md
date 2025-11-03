@@ -1,7 +1,5 @@
 # 📑 Backlog – Sistema HighTask
 
----
-
 ### ✅ Requisitos Funcionais (RF)
 
 | Rank | Prioridade | User Story | Story Points | Sprint | Requisito do Cliente | Status |
