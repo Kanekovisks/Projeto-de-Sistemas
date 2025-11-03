@@ -38,7 +38,7 @@ Nesse projeto foi atribuído o cenário de um empresa de médio porte onde os se
 - 📚 <a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/tree/main/Documenta%C3%A7%C3%A3o/Diagrama">Diagramas de UML</a>
 - 📅 <a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/blob/main/Documenta%C3%A7%C3%A3o/SPRINT_BACKLOG.md">Sprint Backlog</a>
 - 📘 <a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/blob/main/Documenta%C3%A7%C3%A3o/DoD%20e%20DoR.md">DoD e DoR</a>
-- 📖 <a href="">Manual do Usuário</a>
+- 📖 <a href="https://github.com/Kanekovisks/Projeto-de-Sistemas/blob/main/Documenta%C3%A7%C3%A3o/Manual%20De%20Usu%C3%A1rio/">Manual do Usuário</a>
 
 ---
 
